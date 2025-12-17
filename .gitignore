@@ -1,0 +1,23 @@
+# Build directory
+/build/
+
+# Compiled objects / executables
+*.o
+*.obj
+*.exe
+*.out
+
+# CMake cache and generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Editor/OS files
+*.swp
+*.DS_Store
+
+# test images
+*.png
+*.jpg
+*.jpeg
