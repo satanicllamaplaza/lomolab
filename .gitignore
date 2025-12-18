@@ -1,6 +1,9 @@
 # Build directory
 /build/
 
+# References Directory
+/references/
+
 # Compiled objects / executables
 *.o
 *.obj
